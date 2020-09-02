@@ -1,0 +1,10 @@
+{
+  "name": "ApiTesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jaylp33 <jaylp33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
